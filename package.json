@@ -1,0 +1,28 @@
+{
+  "name": "mjml-starter",
+  "version": "1.0.0",
+  "description": "A simple starter kit for building emails with mjml.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cresencio/mjml-starter.git"
+  },
+  "keywords": [
+    "email",
+    "mjml"
+  ],
+  "author": "cresencio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cresencio/mjml-starter/issues"
+  },
+  "homepage": "https://github.com/cresencio/mjml-starter#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "gulp": "^3.9.1",
+    "gulp-mjml": "^2.2.0"
+  }
+}

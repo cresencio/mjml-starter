@@ -1,0 +1,66 @@
+<mjml>
+  <mj-head>
+    <mj-title>Confirmed</mj-title>
+    <mj-attributes>
+
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-container>
+
+      <mj-section>
+        <mj-column>
+          <mj-image
+            height="100"
+            width="200"
+            src="http://placehold.it/200x100/000000/ffffff?text=logo" />
+
+            <mj-divider
+              border-width="1px"
+              border-style="dashed"
+              border-color="#000000"
+              padding-top="20px"
+              padding-bottom="20px"/>
+
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-container>
+          <mj-text
+            font-size="36px"
+            font-weight="700"
+            align="center">
+            Thank You!
+          </mj-text>
+        </mj-container>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-text>
+            Dear *|FNAME|*, <br>
+
+            <p>Thank you for lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+
+          </mj-text>
+
+
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-button
+            background-color="#000000"
+            color="#ffffff"
+            text-transform="uppercase"
+            href="http://example.com">
+            confirm
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+    </mj-container>
+  </mj-body>
+</mjml>
